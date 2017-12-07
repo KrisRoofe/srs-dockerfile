@@ -81,7 +81,7 @@ srs stream server
 
 4.  添加系统服务
 
-    sudo ln -sf /usr/local/srs/etc/init.d/srs /etc/init.d/srs
+    sudo ln -sf /usr/local/srs/etc/init.d/srs /etc/init.d/srs  
     sudo update-rc.d srs defaults
 
 5.  启动SRS
