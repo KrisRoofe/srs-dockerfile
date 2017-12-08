@@ -76,7 +76,7 @@ srs stream server
 
 3.  编译安装SRS
 
-    ./configure --prefix=/usr/local/srs --with-http-api
+    ./configure --prefix=/usr/local/srs --with-http-api  
     make && sudo make install
 
 4.  添加系统服务
